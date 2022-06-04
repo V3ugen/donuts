@@ -61,7 +61,7 @@ Pages, в ветку `gh-pages`, каждый раз когда обновляе
 выставить раздачу продакшн версии файлов из папки `/root` ветки `gh-pages`, если
 это небыло сделано автоматически.
 
-![GitHub Pages settings](./assets/repo-settings.png)
+![GitHub Pages settings]
 
 ### Статус деплоя
 
